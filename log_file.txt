@@ -1,12 +1,1 @@
-//játék_vége(whosturn) hibás a hib oke egynelõre ismeretlen ugyanakkor módositások történtek a validation_bábok metódusban
-//fontos a hiba akkor jön elõ ha az asd2.txt betöltésre kerül és e5bgd4 utána pedig c2wgc3 itt dobja fel 
-//bug elméletileg javítva további tesztelés szükséges!
-// uj bug most a validation for gyalog valószínuleg korábban is õ volt a tettes egy vagy elágazás okozta a hibát, további felderítés szükséges
-//javítva,,,
-
-
-//button_clickednél a change_turn pozicoja megváltozott, estleges hibaforrás
-
-
-
-//received esetén a z üzenet megjelenik a csatben is!
+Chess only the kliens
